@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naufalrandi
 - 👀 I’m interested in something new
-- 🌱 I’m currently learning JS and PHP
+- 🌱 I’m currently use JS and PHP
 - 💞️ I’m looking to collaborate on github or gitlab
 <!--- - 📫 How to reach me naufalrandi--->
 
